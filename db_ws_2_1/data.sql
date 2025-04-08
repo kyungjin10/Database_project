@@ -19,3 +19,4 @@ VALUES
     ('Monkey', 'Fruits', 50, 60, 8);
 
     
+
